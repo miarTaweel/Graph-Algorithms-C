@@ -12,6 +12,7 @@ This project implements Graphs in C, reading city data from `cities.txt` and cal
 ## Example Usage
 
 To run the program, provide the input file "cities.txt" containing city data and Run the Program.c file , specify the cities to compare:
+
 ![Alt text](FromTubasToSalfit.png)
 
 
