@@ -1,0 +1,13 @@
+
+
+From Tulkarem city to Nablus city:
+
+-BFS Algorithm 
+
+Distance = 149km(3 edges)
+Path: Tulkarem -(57km)->Haifa  -(49km)->Jenin  -(43km)->Nablus 
+
+-Dijkstra Algorithm
+
+Distance = 149km
+Path: Tulkarem -(57km)->Haifa  -(49km)->Jenin  -(43km)->Nablus 
