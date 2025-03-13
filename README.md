@@ -11,12 +11,12 @@ This project implements Graphs in C, reading city data from `cities.txt` and cal
 
 ## Example Usage
 
-To run the program, provide the input file "cities.txt" containing city data and specify the cities to compare:
+To run the program, provide the input file "cities.txt" containing city data and Run the Program.c file , specify the cities to compare:
 
 
 ## Contact
 
 For any inquiries, reach out via:
 
-- Email: [your\_email@example.com](mailto\:your_email@example.com)
+- Email: [miar.taweel04@gmail.com](mailto\:miar.taweel04@gmail.com)
 - GitHub: [yourusername](https://github.com/yourusername)
